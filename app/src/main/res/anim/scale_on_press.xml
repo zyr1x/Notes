@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android">
+    <android:fromXScale android:value="1.0" />
+    <android:fromYScale android:value="1.0" />
+    <android:toXScale android:value="1.1" />
+    <android:toYScale android:value="1.1" />
+    <android:duration android:value="200" />
+    <android:interpolator android:value="@android:anim/accelerate_decelerate_interpolator" />
+</scale>
