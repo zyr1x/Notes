@@ -1,6 +1,6 @@
 # Notes App
 
-[![Version](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/zyr1x/notes) [!Android](https://img.shields.io/badge/Android-13+-green)
+[![Version](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/zyr1x/notes) ![Android 13+](https://img.shields.io/badge/Android-13%2B-brightgreen?logo=android&logoColor=white)
 
 Приложение для создания и управления заметками. Легкий и удобный интерфейс для работы с текстовыми заметками, а также возможность делиться заметками с другими пользователями через ссылку.
 
